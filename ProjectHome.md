@@ -1,0 +1,1 @@
+Allows you to add unique field constraints to your App Engine Entities using the static functions from the UniqueFields.java class
